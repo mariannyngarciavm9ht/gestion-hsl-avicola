@@ -1,0 +1,6 @@
+{
+  "name": "Gestión de Higiene, Seguridad y Ambiente (EHS)",
+  "description": "Sistema integral de Gestión de HSL Avícola (Higiene, Seguridad Laboral y Medio Ambiente): Inspecciones en granjas y plantas de beneficio con evidencia fotográfica, Registro de Accidentes, Control de Extintores con QR, Dotación de EPI y Gráficas Estadísticas con análisis automático.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
